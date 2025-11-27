@@ -1,0 +1,22 @@
+.header_notify {
+  width: 100%;
+  background: #000;
+  color: #ffffff;
+  text-align: center;
+  font-size: 0.8rem;
+  padding: 0 12px;
+  line-height: 1;
+  font-weight: bold;
+  height: 4rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  background-color: #f8f9fa;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+
+  width: 100%;
+}
