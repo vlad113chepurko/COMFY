@@ -10,7 +10,7 @@ export default function Home() {
           src="https://cdn.comfy.ua/media/x/brending-bannera/1366x200_1072.jpg"
           alt="poster"
         />
-        <components``.Home />
+        <components.Home />
       </main>
     </>
   );
