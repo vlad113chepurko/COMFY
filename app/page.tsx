@@ -1,10 +1,16 @@
-import Header from "@/src/layout/Header/Header";
+import { layouts } from "@/src/layout";
+import { components } from "@/src/components";
+
 export default function Home() {
   return (
     <>
-      <Header />
+      <layouts.Header />
       <main>
-        <h1>Welcome to Comfy App</h1>
+        <img
+          src="https://cdn.comfy.ua/media/x/brending-bannera/1366x200_1072.jpg"
+          alt="poster"
+        />
+        <components``.Home />
       </main>
     </>
   );
